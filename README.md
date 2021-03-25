@@ -5,7 +5,7 @@ Amira Kamal
 Mai Elsaadawy
 Alaa AbdelRahman
 Toka 
-Sayed Sucker
+Sayed Sukkar  DONE
 Omar
 Shazly
 Belal
