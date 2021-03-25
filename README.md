@@ -5,7 +5,7 @@ Amira Kamal
 Mai Elsaadawy
 Alaa AbdelRahman
 Toka 
-Sayed Sucker
+Sayed Sukkar  DONE
 Omar
 MO_Shazly
 Belal
@@ -14,7 +14,8 @@ Yehia
 Mohamed Younis
 Mahmoud Gaber
 Yara
-Marwa
+Marwa Younes
 Shimaa
 Farouk
 Mostafa Ibrahim
+Alaa's commit
