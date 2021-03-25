@@ -17,11 +17,7 @@ Mohamed Younis
 Mahmoud Gaber
 <<<<<<< HEAD
 Yara Mohsen -----> Ismaillia ^_^
-Marwa
-=======
-Yara
 Marwa Younes
->>>>>>> 75ed8325817698e5729f1311415a9d86ce473fc1
 Shimaa
 Farouk
 Mostafa Ibrahim
