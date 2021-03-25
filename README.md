@@ -7,7 +7,7 @@ Alaa AbdelRahman
 Toka 
 Sayed Sukkar  DONE
 Omar
-MO _Shazly_ ZZ
+MO _Shazly_ Z
 Belal
 Osama
 Yehia
