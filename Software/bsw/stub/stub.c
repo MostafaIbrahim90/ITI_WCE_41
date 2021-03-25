@@ -73,3 +73,7 @@ void CanIf_ControllerBusOff(uint8 ControllerId)
 }
 
 
+void print(void)
+{
+   /* nothing to do */	
+}
