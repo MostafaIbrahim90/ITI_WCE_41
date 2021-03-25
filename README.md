@@ -5,7 +5,7 @@ Amira Kamal
 Mai Elsaadawy
 Alaa AbdelRahman
 Toka 
-Sayed Sucker
+Sayed Sukkar  DONE
 Omar
 Shazly
 Belal
@@ -14,7 +14,7 @@ Yehia
 Mohamed Younis
 Mahmoud Gaber
 Yara
-Marwa
+Marwa Younes
 Shimaa
 Farouk
 Mostafa Ibrahim
