@@ -1,6 +1,6 @@
 # ITI_WCE_41
 Remote Repo. Sesssion
-Mariam Mohamed
+Mariam Mohamed Kamal
 Amira Kamal
 Mai Elsaadawy
 Alaa AbdelRahman
