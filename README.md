@@ -2,10 +2,10 @@
 Remote Repo. Sesssion
 Mariam Mohamed
 Amira Kamal
-Mai
-Alaa
-Toka
-Sayed
+Mai Elsaadawy
+Alaa AbdelRahman
+Toka 
+Sayed Sucker
 Omar
 Shazly
 Belal
